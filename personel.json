@@ -1,0 +1,22 @@
+[
+  {
+    "ID": 1,
+    "Ad": "Ahmet",
+    "Soyad": "Yýlmaz",
+    "SaatlikUcret": 600,
+    "CalismaSaati": 160,
+    "Derece": 2,
+    "Bonus": 200,
+    "Unvan": "Yonetici"
+  },
+  {
+    "ID": 2,
+    "Ad": "Ayþe",
+    "Soyad": "Kaya",
+    "SaatlikUcret": 450,
+    "CalismaSaati": 180,
+    "Derece": 1,
+    "Bonus": 150,
+    "Unvan": "Memur"
+  }
+]
